@@ -1,6 +1,6 @@
 # 20-Newsgroups-LSTM-Classification
 Text Classification on 20 Newsgroups dataset using LSTM model
-# 20 Newsgroups LSTM Text Classification
+
 
 ## Project Overview
 This project performs text classification on the 20 Newsgroups dataset using a Long Short-Term Memory (LSTM) model. The model is trained to classify news articles into 20 categories.
@@ -23,4 +23,4 @@ The project uses the 20 Newsgroups dataset, which can be downloaded from scikit-
 4. Run the notebook: `20_newsgroups_lstm.ipynb`  
 
 ## Author
-<Your Name>
+THASHBIHA AFSHIN
